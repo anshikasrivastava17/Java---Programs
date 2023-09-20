@@ -11,12 +11,7 @@ Enter Student roll number
 The students present in the database are
 ----
 ----
----- 
-
-@author : Anshika Srivastava
-Roll number : R2142220907
-SAP ID: 500107049
-Date : 20/09/2023  */
+----  */
 import java.util.Scanner;
 
 class database {
