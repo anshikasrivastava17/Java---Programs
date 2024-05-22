@@ -1,8 +1,5 @@
-/*Write a program in Java to demonstrate multiple inheritance using interfaces 
- author : @Anshika Srivastava
-Roll number : R2142220907
-SAP ID: 500107049
-Date : 08/11/2023 */
+//Write a program in Java to demonstrate multiple inheritance using interfaces 
+ 
 
 interface A {
     void points(int x, int y);
