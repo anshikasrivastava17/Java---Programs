@@ -1,4 +1,4 @@
-/* Strictly sorted matrix where all elements of entire are sorted altogether */
+/* Search in strictly sorted matrix where all elements of entire are sorted altogether */
 
 import java.util.Arrays;
 
