@@ -36,7 +36,6 @@ public class MergeSort {
 
         for( ; j < second.length; j++) 
             mix[k++] = second[j];
-        }
         return mix;
     }
 }
