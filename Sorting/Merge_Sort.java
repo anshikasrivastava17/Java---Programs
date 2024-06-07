@@ -28,6 +28,7 @@ public class MergeSort {
                 mix[k++] = first[i++];
             else 
                 mix[k++] = second[j++];
+        }
           
         // copy the remaining elements
         for( ; i < first.length; i++) 
