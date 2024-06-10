@@ -1,5 +1,5 @@
 //Method - 1
-public class Pallindrome {
+public class Palindrome {
     public static void main(String[] args) {
         String str = "abcba";
         System.out.println(isPalindrome(str));
