@@ -14,7 +14,7 @@ class Main {
          
          
         */
-          for(int i=1; i<=5; i++) //rows = 5
+          for(int i=1; i<=5; i++)
         {   
             
             for(int s=(5-i);s>=1;s--)
