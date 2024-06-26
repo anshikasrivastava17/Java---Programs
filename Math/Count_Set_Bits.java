@@ -1,5 +1,5 @@
 /* Count the number of set bits in a given number */
-class countSetBits {
+class countSetBits{
     static int countSetBits(int n)
     {
         int count = 0;
