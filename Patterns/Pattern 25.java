@@ -1,14 +1,12 @@
 class Main {
     public static void main(String[] args) {
         /*
-       
        1
        0 1
        1 0 1
        0 1 0 1
        1 0 1 0 1
-      
-        */
+    */
     
         int n = 5; // Total rows
         for (int i = 1; i <= n; i++) {
