@@ -1,4 +1,4 @@
-    static List<List<Integer>> subset(int[] arr) {
+static List<List<Integer>> subset(int[] arr) {
         List<List<Integer>> outer = new ArrayList<>();
         outer.add(new ArrayList<>());
         for (int num : arr) {
